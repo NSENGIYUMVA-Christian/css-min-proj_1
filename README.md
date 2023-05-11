@@ -1,2 +1,1 @@
-# css-min-proj_1
-back to the css basics. 
+For my first CSS mini project, I created a beginner-level menu featuring a list of items. Each item includes a link that takes the user directly to the corresponding page. I paid close attention to styling and ensured that all elements were visually appealing and cohesive.
